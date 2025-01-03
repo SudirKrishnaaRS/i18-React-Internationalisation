@@ -14,3 +14,33 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.btn-container {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  background-color: #3f3f3f;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 1em;
+  padding: 0.6em 1.2em;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: border-color 0.35s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+button.selected {
+  background-color: #646cff;
+}
