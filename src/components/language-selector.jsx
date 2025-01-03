@@ -4,6 +4,7 @@ const languages = [
   { code: "en", lang: "English" },
   { code: "fr", lang: "French" },
   { code: "hi", lang: "Hindi" },
+  { code: "it", lang: "Italian" },
 ];
 
 const LanguageSelector = () => {
