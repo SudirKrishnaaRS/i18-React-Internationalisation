@@ -1,0 +1,7 @@
+{
+  "greeting": "Bonjour, Bienvenue!",
+  "description": {
+    "line1": "Ce POC est fait pour comprendre les concepts d'Internationalisation d'une Application Web avec plusieurs langues",
+    "line2": "Développé par {{developerName}}"
+  }
+}
