@@ -16,7 +16,7 @@ i18n
           description: {
             line1:
               "This POC is made to understand the concepts of Internationalisation of a Web Application with several languages",
-            line2: "Developed by Sudir Krishnaa RS",
+            line2: "Developed by {{developerName}}",
           },
         },
       },
@@ -26,7 +26,7 @@ i18n
           description: {
             line1:
               "Ce POC est fait pour comprendre les concepts d'Internationalisation d'une Application Web avec plusieurs langues",
-            line2: "Développé par Sudir Krishnaa RS",
+            line2: "Développé par {{developerName}}",
           },
         },
       },
@@ -36,7 +36,7 @@ i18n
           description: {
             line1:
               "यह POC कई भाषाओं के साथ एक वेब एप्लिकेशन के अंतर्राष्ट्रीयकरण की अवधारणाओं को समझने के लिए बनाया गया है",
-            line2: "सुदीर कृष्णा आरएस द्वारा विकसित",
+            line2: "{{developerName}} आरएस द्वारा विकसित",
           },
         },
       },
@@ -46,7 +46,7 @@ i18n
           description: {
             line1:
               "تم تصميم هذا الدليل العملي لفهم مفاهيم تدويل تطبيق الويب بعدة لغات",
-            line2: "تم تطويره بواسطة Sudir Krishnaa RS",
+            line2: "تم تطويره بواسطة {{developerName}}",
           },
         },
       },

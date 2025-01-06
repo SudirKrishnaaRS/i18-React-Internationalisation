@@ -4,7 +4,9 @@ import LanguageSelector from "./components/language-selector";
 
 function App() {
   const { t } = useTranslation();
-  const { line1, line2 } = t("description");
+  const { line1, line2 } = t("description", {
+    developerName: "Sudir Krishnaa",
+  });
 
   return (
     <div className="container">
